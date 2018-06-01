@@ -9,7 +9,7 @@
   <author email="thlim@robotis.com">Darby Lim</author>
   <maintainer email="pyo@robotis.com">Pyo</maintainer>
   <url type="website">http://wiki.ros.org/open_manipulator_msgs</url>
-  <url type="website">http://emanual.robotis.com/docs/en/platform/openmanipulator</url>
+  <url type="emanual">http://emanual.robotis.com/docs/en/platform/openmanipulator</url>
   <url type="repository">https://github.com/ROBOTIS-GIT/open_manipulator_msgs</url>
   <url type="bugtracker">https://github.com/ROBOTIS-GIT/open_manipulator_msgs/issues</url>
   <buildtool_depend>catkin</buildtool_depend>
