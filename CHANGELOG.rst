@@ -2,6 +2,11 @@
 Changelog for package open_manipulator_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.0 (2018-06-01)
+------------------
+* Package reconfiguration for OpenManipulator
+* Contributors: Darby Lim, Pyo
+
 0.1.1 (2018-03-15)
 ------------------
 * none
