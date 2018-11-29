@@ -24,7 +24,7 @@ add_message_files(
    FILES
    JointPosition.msg
    KinematicsPose.msg
-   State.msg
+   OpenManipulatorState.msg
  )
 
 add_service_files(
@@ -33,6 +33,8 @@ add_service_files(
    GetKinematicsPose.srv
    SetJointPosition.srv
    SetKinematicsPose.srv
+   SetDrawingTrajectory.srv
+   SetTorqueState.srv
  )
 
 generate_messages(

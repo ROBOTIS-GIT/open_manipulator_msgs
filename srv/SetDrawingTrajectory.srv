@@ -1,0 +1,5 @@
+string drawingTrajectoryName
+float64[] param
+float64 path_time
+---
+bool isPlanned
