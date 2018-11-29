@@ -10,4 +10,4 @@ string ACTUATOR_DISABLED = "ACTUATOR_DISABLED"
 # Messages
 ########################################
 string open_manipulator_moving_state
-string open_manipulator_enable_state
+string open_manipulator_actuator_state

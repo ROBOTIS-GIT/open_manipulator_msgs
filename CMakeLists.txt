@@ -34,7 +34,7 @@ add_service_files(
    SetJointPosition.srv
    SetKinematicsPose.srv
    SetDrawingTrajectory.srv
-   SetTorqueState.srv
+   SetActuatorState.srv
  )
 
 generate_messages(
