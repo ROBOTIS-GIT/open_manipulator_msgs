@@ -1,0 +1,3 @@
+bool setActuatorState
+---
+bool isPlanned
