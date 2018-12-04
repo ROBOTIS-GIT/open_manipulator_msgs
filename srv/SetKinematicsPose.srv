@@ -1,3 +1,4 @@
+string planning_group
 KinematicsPose kinematics_pose
 float64 path_time
 ---
