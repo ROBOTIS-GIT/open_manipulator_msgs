@@ -5,7 +5,7 @@
 ## ROS Packages for OpenManipulator
 |Version|Kinetic + Ubuntu Xenial|Melodic + Ubuntu Bionic|
 |:---:|:---:|:---:|
-|[![GitHub version](https://badge.fury.io/gh/ROBOTIS-GIT%2Fopen_manipulator_msgs.svg)](https://badge.fury.io/gh/ROBOTIS-GIT%2Fopen_manipulator_msgs)|[![Build Status](https://travis-ci.org/ROBOTIS-GIT/open_manipulator_msgs.svg?branch=kinetic-devel)](https://travis-ci.org/ROBOTIS-GIT/open_manipulator_msgs)|-|
+|[![GitHub version](https://badge.fury.io/gh/ROBOTIS-GIT%2Fopen_manipulator_msgs.svg)](https://badge.fury.io/gh/ROBOTIS-GIT%2Fopen_manipulator_msgs)|[![Build Status](https://travis-ci.org/ROBOTIS-GIT/open_manipulator_msgs.svg?branch=kinetic-devel)](https://travis-ci.org/ROBOTIS-GIT/open_manipulator_msgs)|[![Build Status](https://travis-ci.org/ROBOTIS-GIT/open_manipulator_msgs.svg?branch=melodic-devel)](https://travis-ci.org/ROBOTIS-GIT/open_manipulator_msgs)|
 
 ## ROBOTIS e-Manual for OpenManipulator
 - [ROBOTIS e-Manual for OpenManipulator](http://emanual.robotis.com/docs/en/platform/openmanipulator/)
@@ -14,10 +14,13 @@
 - http://wiki.ros.org/open_manipulator_msgs
 
 ## Open Source related to OpenManipulator
+- [robotis_manipulator](https://github.com/ROBOTIS-GIT/robotis_manipulator)
 - [open_manipulator](https://github.com/ROBOTIS-GIT/open_manipulator)
 - [open_manipulator_msgs](https://github.com/ROBOTIS-GIT/open_manipulator_msgs)
 - [open_manipulator_simulations](https://github.com/ROBOTIS-GIT/open_manipulator_simulations)
 - [open_manipulator_perceptions](https://github.com/ROBOTIS-GIT/open_manipulator_perceptions)
+- [open_manipulator_processing](https://github.com/ROBOTIS-GIT/open_manipulator_processing)
+- [open_manipulator_friends](https://github.com/ROBOTIS-GIT/open_manipulator_friends)
 - [open_manipulator_with_tb3](https://github.com/ROBOTIS-GIT/open_manipulator_with_tb3)
 - [open_manipulator_with_tb3_msgs](https://github.com/ROBOTIS-GIT/open_manipulator_with_tb3_msgs)
 - [open_manipulator_with_tb3_simulations](https://github.com/ROBOTIS-GIT/open_manipulator_with_tb3_simulations)
@@ -32,11 +35,8 @@
 - [manipulator_h](https://github.com/ROBOTIS-GIT/ROBOTIS-MANIPULATOR-H)
 - [dynamixel_sdk](https://github.com/ROBOTIS-GIT/DynamixelSDK)
 - [dynamixel_workbench](https://github.com/ROBOTIS-GIT/dynamixel-workbench)
-- [robotis_math](https://github.com/ROBOTIS-GIT/ROBOTIS-Math)
 - [OpenCR-Hardware](https://github.com/ROBOTIS-GIT/OpenCR-Hardware)
 - [OpenCR](https://github.com/ROBOTIS-GIT/OpenCR)
-- [open_manipulator_processing](https://github.com/ROBOTIS-GIT/open_manipulator_processing)
-
 
 ## Documents and Videos related to OpenManipulator
 - [ROBOTIS e-Manual for OpenManipulator](http://emanual.robotis.com/docs/en/platform/openmanipulator/)
