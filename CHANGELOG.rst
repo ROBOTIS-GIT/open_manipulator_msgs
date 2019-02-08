@@ -2,6 +2,17 @@
 Changelog for package open_manipulator_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.0 (2019-02-08)
+------------------
+* added endeffector name
+* added params
+* added authors
+* added path time variable
+* deleted unused params
+* updated msg and srv
+* updated the CHANGELOG and version to release binary packages
+* Contributors: Darby Lim, Yong-Ho Na, Pyo
+
 0.3.0 (2018-06-01)
 ------------------
 * Package reconfiguration for OpenManipulator
