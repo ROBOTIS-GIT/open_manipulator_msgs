@@ -1,5 +1,5 @@
 string planning_group
 string end_effector_name
 ---
-Header header
+std_msgs/Header header
 KinematicsPose kinematics_pose

@@ -2,6 +2,11 @@
 Changelog for package open_manipulator_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.0 (2019-08-30)
+------------------
+* Added support for ROS2
+* Contributors: Ryan Shim
+
 1.0.0 (2019-02-08)
 ------------------
 * added endeffector name
