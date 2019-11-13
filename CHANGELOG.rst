@@ -2,9 +2,14 @@
 Changelog for package open_manipulator_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-3.0.0 (2019-08-30)
+2.2.0 (2019-11-13)
 ------------------
-* Added support for ROS2
+* Applied robotis coding style guide 
+* Contributors: Ryan Shim
+
+2.0.0 (2019-08-30)
+------------------
+* Added support for ROS 2
 * Contributors: Ryan Shim
 
 1.0.0 (2019-02-08)
