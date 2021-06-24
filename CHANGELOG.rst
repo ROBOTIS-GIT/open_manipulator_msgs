@@ -2,6 +2,11 @@
 Changelog for package open_manipulator_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.1 (2021-06-24)
+------------------
+* Noetic support
+* Contributors: Will Son
+
 1.0.0 (2019-02-08)
 ------------------
 * added endeffector name
