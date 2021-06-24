@@ -2,10 +2,12 @@
 <img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/openmanipulator_x/OpenManipulator.png">
 <img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/openmanipulator_x/OpenManipulator_Chain_Capture.png" width="500">
 
-## ROS Packages for OpenManipulator
-|Version|Kinetic + Ubuntu Xenial|Melodic + Ubuntu Bionic|
-|:---:|:---:|:---:|
-|[![GitHub version](https://badge.fury.io/gh/ROBOTIS-GIT%2Fopen_manipulator_msgs.svg)](https://badge.fury.io/gh/ROBOTIS-GIT%2Fopen_manipulator_msgs)|[![Build Status](https://travis-ci.org/ROBOTIS-GIT/open_manipulator_msgs.svg?branch=kinetic-devel)](https://travis-ci.org/ROBOTIS-GIT/open_manipulator_msgs)|[![Build Status](https://travis-ci.org/ROBOTIS-GIT/open_manipulator_msgs.svg?branch=melodic-devel)](https://travis-ci.org/ROBOTIS-GIT/open_manipulator_msgs)|
+[![kinetic-devel Status](https://github.com/ROBOTIS-GIT/open_manipulator_msgs/workflows/kinetic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/open_manipulator_msgs/tree/kinetic-devel)
+[![melodic-devel Status](https://github.com/ROBOTIS-GIT/open_manipulator_msgs/workflows/melodic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/open_manipulator_msgs/tree/melodic-devel)
+[![noetic-devel Status](https://github.com/ROBOTIS-GIT/open_manipulator_msgs/workflows/noetic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/open_manipulator_msgs/tree/noetic-devel)
+[![dashing-devel Status](https://github.com/ROBOTIS-GIT/open_manipulator_msgs/workflows/dashing-devel/badge.svg)](https://github.com/ROBOTIS-GIT/open_manipulator_msgs/tree/dashing-devel)
+[![foxy-devel Status](https://github.com/ROBOTIS-GIT/open_manipulator_msgs/workflows/foxy-devel/badge.svg)](https://github.com/ROBOTIS-GIT/open_manipulator_msgs/tree/foxy-devel)
+[![galactic-devel Status](https://github.com/ROBOTIS-GIT/open_manipulator_msgs/workflows/galactic-devel/badge.svg)](https://github.com/ROBOTIS-GIT/open_manipulator_msgs/tree/galactic-devel)
 
 ## ROBOTIS e-Manual for OpenManipulator
 - [ROBOTIS e-Manual for OpenManipulator](http://emanual.robotis.com/docs/en/platform/openmanipulator/)
